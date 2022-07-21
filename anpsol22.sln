@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anpnet22", "anpnet22\anpnet22.csproj", "{D9CAAB18-3C59-4765-BE94-641A5436380E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "intnet22", "intnet22\intnet22.csproj", "{F6D9C898-BECB-40B3-9580-4F0DC15C41A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9CAAB18-3C59-4765-BE94-641A5436380E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9CAAB18-3C59-4765-BE94-641A5436380E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9CAAB18-3C59-4765-BE94-641A5436380E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9CAAB18-3C59-4765-BE94-641A5436380E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6D9C898-BECB-40B3-9580-4F0DC15C41A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D9C898-BECB-40B3-9580-4F0DC15C41A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D9C898-BECB-40B3-9580-4F0DC15C41A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D9C898-BECB-40B3-9580-4F0DC15C41A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
