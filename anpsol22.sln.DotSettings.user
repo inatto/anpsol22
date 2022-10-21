@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=X_003A_005Cdev_005C_002Enet_005Canpsol22_005Cintnet22_005Cbin_005CDebug_005Cnet6_002E0_002Dwindows_005CNHibernate_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=X_003A_005Cdev_005C_002Enet_005Canpsol22_005Cintnet22_005Cbin_005CDebug_005Cnet6_002E0_002Dwindows_005CNHibernate_005CAntlr3_002ERuntime_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=X_003A_005Cdev_005C_002Enet_005Canpsol22_005Cintnet22_005Cbin_005CDebug_005Cnet6_002E0_002Dwindows_005CNHibernate_005CIesi_002ECollections_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=X_003A_005Cdev_005C_002Enet_005Canpsol22_005Cintnet22_005Cbin_005CDebug_005Cnet6_002E0_002Dwindows_005CNHibernate_005Cnhibernate_002Dconfiguration_002Exsd/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=X_003A_005Cdev_005C_002Enet_005Canpsol22_005Cintnet22_005Cbin_005CDebug_005Cnet6_002E0_002Dwindows_005CNHibernate_005Cnhibernate_002Dmapping_002Exsd/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=X_003A_005Cdev_005C_002Enet_005Canpsol22_005Cintnet22_005Cbin_005CDebug_005Cnet6_002E0_002Dwindows_005CNHibernate_005CNHibernate_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=X_003A_005Cdev_005C_002Enet_005Canpsol22_005Cintnet22_005Cbin_005CDebug_005Cnet6_002E0_002Dwindows_005CNHibernate_005CNHibernate_002Epdb/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=X_003A_005Cdev_005C_002Enet_005Canpsol22_005Cintnet22_005Cbin_005CDebug_005Cnet6_002E0_002Dwindows_005CNHibernate_005CNHibernate_002Exml/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=X_003A_005Cdev_005C_002Enet_005Canpsol22_005Cintnet22_005Cbin_005CDebug_005Cnet6_002E0_002Dwindows_005CNHibernate_005CRemotion_002ELinq_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=X_003A_005Cdev_005C_002Enet_005Canpsol22_005Cintnet22_005Cbin_005CDebug_005Cnet6_002E0_002Dwindows_005CNHibernate_005CRemotion_002ELinq_002EEagerFetching_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=X_003A_005Cdev_005C_002Enet_005Canpsol22_005Cintnet22_005Chibernate_002Ecfg_002Exml/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\dma\.nuget\packages\mysqlconnector\1.0.0\lib\net5.0\MySqlConnector.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\dma\.nuget\packages\nhibernate\5.3.13\lib\netcoreapp2.0\NHibernate.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
